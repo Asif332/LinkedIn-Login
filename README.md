@@ -8,7 +8,7 @@ oauth/v2
 
 Fetch  :
 
-AccessToken
-Profile picture
-Full profile 
-Light profile 
+1.AccessToken
+2.Profile picture
+3.Full profile 
+4.Light profile 
