@@ -1,5 +1,7 @@
-# LinkedInAuthentication
-Linkedin SignIn in SwiftUI
+# LinkedIn Authentication
+
+
+Linkedin SignIn Sample project written in SwiftUI
 
 Using : 
 
